@@ -1,5 +1,4 @@
 import java.io.File;
-
 public class SimpleFileExample {
     public static void main(String[] args) {
         File file = new File("test.txt");
